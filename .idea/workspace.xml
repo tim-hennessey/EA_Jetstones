@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aac2e1f6-5975-493a-b887-0e550f2e60ed" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250/index.html" afterPath="$PROJECT_DIR$/app/300x250/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250/scripts/main.js" afterPath="$PROJECT_DIR$/app/300x250/scripts/main.js" />
-    </list>
+    <list default="true" id="aac2e1f6-5975-493a-b887-0e550f2e60ed" name="Default" comment="" />
     <ignored path="EA_Jetstones.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -208,12 +204,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541110758809</updated>
-      <workItem from="1541110764667" duration="484000" />
+      <workItem from="1541110764667" duration="532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484000" />
+    <option name="totallyTimeSpent" value="532000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="191" y="79" width="1096" height="1324" extended-state="0" />
