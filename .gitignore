@@ -4,3 +4,4 @@ dist
 bower_components
 .idea/workspace.xml
 *.xml
+*.xml
