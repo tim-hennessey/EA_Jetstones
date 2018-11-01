@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac2e1f6-5975-493a-b887-0e550f2e60ed" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/app/300x250/scripts/Banner.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250/index.html" afterPath="$PROJECT_DIR$/app/300x250/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250/scripts/Animation.js" afterPath="$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/300x250/styles/_layout.scss" afterPath="$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
     </list>
     <ignored path="EA_Jetstones.iws" />
@@ -26,11 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/300x250/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,18 +37,18 @@
       <file leaf-file-name="_layout.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+            <state relative-caret-position="585">
+              <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Animation.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+            <state relative-caret-position="480">
+              <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -65,9 +63,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/app/300x250/scripts/main.js" />
+        <option value="$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
         <option value="$PROJECT_DIR$/app/300x250/index.html" />
         <option value="$PROJECT_DIR$/app/300x250/styles/_layout.scss" />
-        <option value="$PROJECT_DIR$/app/300x250/scripts/Animation.js" />
       </list>
     </option>
   </component>
@@ -80,9 +78,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="176" />
-    <option name="y" value="70" />
-    <option name="width" value="1096" />
+    <option name="x" value="439" />
+    <option name="y" value="73" />
+    <option name="width" value="1679" />
     <option name="height" value="1324" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -210,18 +208,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1541110758809</updated>
-      <workItem from="1541110764667" duration="967000" />
+      <workItem from="1541110764667" duration="2300000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="967000" />
+    <option name="totallyTimeSpent" value="2300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="176" y="70" width="1096" height="1324" extended-state="0" />
+    <frame x="439" y="73" width="1679" height="1324" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24930233" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16164052" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -264,26 +262,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/index.html">
+    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="480">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/300x250/styles/_layout.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="585">
+          <caret line="39" column="0" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/300x250/scripts/Animation.js">
+    <entry file="file://$PROJECT_DIR$/app/300x250/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="0" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
