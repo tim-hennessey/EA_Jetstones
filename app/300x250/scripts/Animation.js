@@ -6,7 +6,6 @@ app.Animation = (function () {
     var t = TweenMax;
 
 
-
 	// --------------------------------------------------------------------------------------
 	// set default properties
 	function initialize() {
