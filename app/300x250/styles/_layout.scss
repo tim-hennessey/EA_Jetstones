@@ -5,7 +5,7 @@ body {
 }
 
 #banner {
-    background: #FF00FF;
+    background: #000;
     position: absolute;
     overflow: hidden;
     width: $banner-width;
@@ -14,6 +14,84 @@ body {
     top: 50%;
     margin-left: -$banner-width / 2;
     margin-top: -$banner-height / 2;
+
+
+    #border {
+        border: 1px solid #ccc;
+        display: block;
+        width: $banner-width - 2;
+        height: $banner-height - 2;
+        left: 0;
+        top: 0;
+        pointer-events: none;
+        position: absolute;
+        z-index: 999;
+    }
+
+
+    #hero {
+        left: 0;
+        top: 0;
+        position: absolute;
+    }
+
+    .txt {
+        left: 0;
+        top: 0;
+        position: absolute;
+    }
+
+    #txt01 {
+        clip: rect(0px, 54px, 38px, 0px);
+    }
+
+    #txt02 {
+        clip: rect(0px, 113px, 38px, 54px);
+    }
+
+    #txt03 {
+        clip: rect(0px, 157px, 38px, 113px);
+    }
+
+    #txt04 {
+        clip: rect(0px, 240px, 38px, 157px);
+    }
+
+    #txt05 {
+        clip: rect(38px, 60px, 68px, 0px);
+    }
+
+    #txt06 {
+        clip: rect(38px, 165px, 68px, 60px);
+    }
+
+    #txt07 {
+        clip: rect(38px, 210px, 68px, 165px);
+    }
+
+    #txt08 {
+        clip: rect(38px, 276px, 68px, 210px);
+    }
+
+    #txt09 {
+        clip: rect(68px, 80px, 95px, 0px);
+    }
+
+    #txt10 {
+        clip: rect(68px, 185px, 95px, 80px);
+    }
+
+    #plug {
+        left: 125px;
+        bottom: 0;
+        position: absolute;
+    }
+
+    #cta {
+        left: 17px;
+        top: 125px;
+        position: absolute;
+    }
 
     #button-exit {
         background-color: rgba(255, 255, 255, 0);
