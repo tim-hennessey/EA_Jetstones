@@ -9,6 +9,7 @@ app.Animation = (function () {
     var txt01 = document.getElementById('txt01');
     var txt02 = document.getElementById('txt02');
     var txt03 = document.getElementById('txt03');
+    var txt04 = document.getElementById('txt04');
     var cta = document.getElementById('cta');
     var buttonExit = document.getElementById('button-exit');
     var plug = document.getElementById('plug');
@@ -48,6 +49,10 @@ app.Animation = (function () {
             .to(txt03, .1, {autoAlpha: 1}, "+=.5")
             .to(txt03, .1, {autoAlpha: .5})
             .to(txt03, .1, {autoAlpha: 1})
+
+            .to(txt04, .1, {autoAlpha: 1})
+            .to(txt04, .1, {autoAlpha: .5})
+            .to(txt04, .1, {autoAlpha: 1})
 
             .to(cta, .1, {autoAlpha:1})
 

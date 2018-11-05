@@ -43,30 +43,38 @@ body {
     }
 
     #txt01 {
-        clip: rect(0px, 276px, 38px, 0px);
+        clip: rect(0px, 243px, 63px, 0px);
     }
 
     #txt02 {
-        clip: rect(38px, 276px, 68px, 0px);
+        clip: rect(63px, 243px, 108px, 0px);
     }
 
     #txt03 {
-        clip: rect(68px, 276px, 95px, 0px);
+        clip: rect(108px, 243px, 157px, 0px);
+    }
+
+    #txt04 {
+        clip: rect(157px, 243px, 203px, 0px);
+    }
+
+    #txt05 {
+        clip: rect(203px, 243px, 246px, 0px);
     }
 
 
     #plug {
-        left: 125px;
+        left: 113px;
         bottom: 0;
         opacity:0;
         position: absolute;
     }
 
     #cta {
-        width: 148px;
-        height: 28px;
-        left: 17px;
-        top: 125px;
+        width: 170px;
+        height: 32px;
+        left: 27px;
+        top: 280px;
         background-color: rgba(0, 192, 255, 1);
         opacity:0;
         position: absolute;
