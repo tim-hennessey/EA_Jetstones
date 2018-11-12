@@ -37,25 +37,17 @@ body {
 
     .txt {
         left: 0;
-        top: 168px;
+        top: 0;
         opacity:0;
         position: absolute;
     }
 
     #txt01 {
-        clip: rect(0px, 204px, 43px, 0px);
+        clip: rect(0px, 300px, 156px, 0px);
     }
 
     #txt02 {
-        clip: rect(43px, 204px, 92px, 0px);
-    }
-
-    #txt03 {
-        clip: rect(92px, 204px, 140px, 0px);
-    }
-
-    #txt04 {
-        clip: rect(140px, 204px, 183px, 0px);
+        clip: rect(156px, 300px, 199px, 0px);
     }
 
 

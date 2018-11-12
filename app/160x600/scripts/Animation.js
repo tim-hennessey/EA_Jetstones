@@ -10,8 +10,6 @@ app.Animation = (function () {
     var txt02 = document.getElementById('txt02');
     var txt03 = document.getElementById('txt03');
     var txt04 = document.getElementById('txt04');
-    var txt05 = document.getElementById('txt05');
-    var txt06 = document.getElementById('txt06');
     var cta = document.getElementById('cta');
     var buttonExit = document.getElementById('button-exit');
     var plug = document.getElementById('plug');
@@ -55,14 +53,6 @@ app.Animation = (function () {
             .to(txt04, .1, {autoAlpha: 1})
             .to(txt04, .1, {autoAlpha: .5})
             .to(txt04, .1, {autoAlpha: 1})
-
-            .to(txt05, .1, {autoAlpha: 1}, "+=.5")
-            .to(txt05, .1, {autoAlpha: .5})
-            .to(txt05, .1, {autoAlpha: 1})
-
-            .to(txt06, .1, {autoAlpha: 1})
-            .to(txt06, .1, {autoAlpha: .5})
-            .to(txt06, .1, {autoAlpha: 1})
 
             .to(cta, .1, {autoAlpha:1})
 
