@@ -7,7 +7,6 @@ app.Animation = (function () {
     var tl1 = new TimelineMax();
     var tl2 = new TimelineMax();
     var txt01 = document.getElementById('txt01');
-    var txt02 = document.getElementById('txt02');
     var cta = document.getElementById('cta');
     var buttonExit = document.getElementById('button-exit');
     var plug = document.getElementById('plug');
@@ -39,10 +38,6 @@ app.Animation = (function () {
         tl1.to(txt01, .1, {autoAlpha: 1})
             .to(txt01, .1, {autoAlpha: .5})
             .to(txt01, .1, {autoAlpha: 1})
-
-            .to(txt02, .1, {autoAlpha: 1})
-            .to(txt02, .1, {autoAlpha: .5})
-            .to(txt02, .1, {autoAlpha: 1})
 
             .to(cta, .1, {autoAlpha:1})
 
